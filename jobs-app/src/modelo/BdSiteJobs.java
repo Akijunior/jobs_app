@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class BD_Site_Jobs {
+public class BdSiteJobs {
 	
 	private ArrayList<Empregador> empregadores_cadastrados = new ArrayList<Empregador>();
 
