@@ -1,7 +1,13 @@
 # jobs_app
 Atividade C
-#Teste
 
+
+#Componentes 
+	Luiz Junior
+	Guilherme Rodrigues
+	Ermeson Sousa 
+	Fabiano Santana
+	Marcos Paulo
 
 # Descricao conceitual do  problema
 
