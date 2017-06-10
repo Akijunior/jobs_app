@@ -39,9 +39,6 @@ Atividade C
 >>>>>>> 65a2a5ab158d7233174046fa5309fc17266fd8b5
 =======
 
-                Empregador tem Empresa,
-                                       	nomeEmpregador,telefone
-                                        email,senha
 
 ![ScreenShot](graficoAtt.png)
 >>>>>>> 6c04fc6ec0f9f7f07c59a11c7871c5d56961049f
