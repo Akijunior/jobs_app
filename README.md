@@ -1,3 +1,4 @@
+﻿
 # jobs_app
 Atividade C
 
@@ -8,7 +9,7 @@ Atividade C
 	Ermeson Sousa 
 	Fabiano Santana
 	Marcos Paulo
-##
+  
 # Descricao conceitual do  problema
 
 
@@ -31,5 +32,5 @@ Atividade C
                         tem nomeCandidato,email,
                         miniApresentacao,curriculoCandidato
                         tem um metodo candidatarVaga
-                Candidatura
-                        tem uma data, statusCandidatura
+!{ScreenShot}(graficoAtt)
+>>>>>>> 65a2a5ab158d7233174046fa5309fc17266fd8b5
