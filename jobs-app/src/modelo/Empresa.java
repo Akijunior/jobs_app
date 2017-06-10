@@ -7,8 +7,9 @@ public class Empresa {
 	private String nomeEmmpresa;
 	private String descricaoEmpresa;
 	private String siteEmpresa;
-	private String cidadeEmpresa;
-	private String logotipoEmpresa;
+	private enum cidade;
+	private Contato contato;
+	private Object logotipoEmpresa;
 	
 	private ArrayList<Vaga> vagasDisponiveis = new ArrayList<Vaga>();
 
