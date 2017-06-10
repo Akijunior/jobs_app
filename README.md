@@ -23,6 +23,8 @@ Atividade C
                     tem um usuario,tem uma senha;            
                 Contato
                         tem nome,telefone,email;
+                Candidatura
+                        data,statusCandidatura;
                 Vaga tem uma lista de candidatosConcorrendo(Candidato),
                          dataLançamentoVaga,descricaoVaga,nomeVaga,salarioVaga,
                          tem um metodo receberCandidato(Candidato),vagaPreenchida,vagaRemota.
