@@ -12,7 +12,7 @@ public class Candidato {
 		vaga.ReceberCandidato(this);
 	}
 
-	
+	// teste
 	
 	
 	public String getNomeCandidato() {
