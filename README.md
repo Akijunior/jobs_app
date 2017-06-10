@@ -1,4 +1,4 @@
-
+﻿
 # jobs_app
 Atividade C
 
@@ -26,3 +26,5 @@ Atividade C
                 Empregador tem Empresa,
                                        	nomeEmpregador,telefone
                                         email,senha
+
+!{ScreenShot}(graficoAtt)
