@@ -27,4 +27,4 @@ Atividade C
                                        	nomeEmpregador,telefone
                                         email,senha
 
-!{ScreenShot}(graficoAtt.png)
+![ScreenShot](graficoAtt.png)
