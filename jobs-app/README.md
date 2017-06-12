@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # jobs-app
 ![ScreenShot](jobs-app.png)
 
@@ -21,10 +19,3 @@
 					nomeEmpregador,telefone
 					email,senha
 		BdSiteJobs tem uma lista empregadoresCadastrados(Empregador)
-		
-							 	
-
-=======
-# jobs_app
-Atividade C
->>>>>>> origin/master
